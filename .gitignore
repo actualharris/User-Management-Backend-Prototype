@@ -30,6 +30,8 @@ creds.js
 *.xlsx
 *.sql
 
+!query.sql
+
 !package.json
 !package-lock.json
 
